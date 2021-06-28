@@ -21,7 +21,7 @@
  <a href="https://www.typescriptlang.org/docs/">TypeScript</a> • 
  <a href="https://www.npmjs.com/package/node-sass">Node-Sass</a> • 
  <a href="https://sass-lang.com/">Sass</a> • 
- <a href="https://reactrouter.com/web/guides/quick-start">React Router DOM</a> • 
+ <a href="https://reactrouter.com/web/guides/quick-start">React Router DOM</a> 
 </p>
 
 -------------------
